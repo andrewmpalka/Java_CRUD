@@ -1,0 +1,6 @@
+com/throttlenet/japi/SwaggerDocumentSetup.class
+com/throttlenet/japi/services/v1/User.class
+com/throttlenet/japi/BusinessManager.class
+com/throttlenet/japi/DataManager.class
+com/throttlenet/japi/services/v1/UsersResource.class
+com/throttlenet/japi/services/v1/UsersHolder.class
